@@ -44,7 +44,6 @@ This graduate-level class aims to provide students with a strong foundation for 
 ## Project Descriptions
 
 - **Support Vector Machine Project**: This project explores the application of SVMs in various scenarios, including classification and regression tasks.
-- **Other Projects**: PENDING!!! :P
 
 
 ## Specific Course Goals
