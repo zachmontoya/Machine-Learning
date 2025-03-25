@@ -8,3 +8,30 @@
 './Kernel Hilbert Spaces/6.1/Drafts'
 './Kernel Hilbert Spaces/6.2/Assignment 6.2 copy.ipynb'
 './Support Vector Machine Project/*Draft*'
+
+# Intellij
+.idea
+*.iml
+
+# OSX
+._*
+.DS_STore
+
+#Py
+*.pyc
+
+#Emac
+*~
+\#*\#
+.\#*
+
+#Vim
+[._]*.s[a-w][a-z]
+[._].s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+credentials.json
+
+env
